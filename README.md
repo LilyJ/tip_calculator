@@ -1,4 +1,4 @@
-# tip_calculator
+# Tip Calculator
 
 ## How many hours did it take to complete?
 It takes me about 1 hour.
