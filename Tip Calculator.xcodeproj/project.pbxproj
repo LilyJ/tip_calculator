@@ -405,6 +405,7 @@
 				2A5DDDDC1A6807BF00E370FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2A5DDDDD1A6807BF00E370FD /* Build configuration list for PBXNativeTarget "Tip CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				2A5DDDDF1A6807BF00E370FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
